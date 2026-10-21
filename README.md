@@ -6,8 +6,11 @@
 ---
 
 <p align="center">
+  <a href="https://virtualacademic.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_APP-virtualacademic.vercel.app-00FFCC?style=for-the-badge&logo=vercel&logoColor=000&labelColor=0d1117" alt="Live App" />
+  </a>
   <a href="https://vaults.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_DEMO-vaults.vercel.app-00FFCC?style=for-the-badge&logo=vercel&logoColor=000&labelColor=0d1117" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/MIRROR-vaults.vercel.app-00E599?style=for-the-badge&logo=vercel&logoColor=000&labelColor=0d1117" alt="Live Mirror" />
   </a>
   <a href="https://github.com/Arpit27-creator-tech/VAULT" target="_blank">
     <img src="https://img.shields.io/badge/SOURCE_CODE-Arpit27--creator--tech%2FVAULT-cyan?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Source Code Repo" />
@@ -482,7 +485,7 @@ CLIENT                                             SERVER
    - **Build Command:** `npm install`
    - **Start Command:** `node index.js`
    - **Environment:** `Node`
-4. Set your `CORS_ORIGIN` to your Vercel deployment URL (e.g. `https://vaults.vercel.app`).
+4. Set your `CORS_ORIGIN` to your Vercel deployment URL (e.g. `https://virtualacademic.vercel.app` or `https://vaults.vercel.app`).
 
 ---
 
